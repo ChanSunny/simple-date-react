@@ -1,8 +1,12 @@
 # Simple Date Website for New York
 
-Displays the time for New York every 10 seconds
+Displays the time for New York every 10 seconds. Created by using "create-react-app".
 
 ## Required Scripts
+
+Required packages:
+
+node and npm
 
 In the project directory, you need to run:
 
