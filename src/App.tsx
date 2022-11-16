@@ -10,7 +10,7 @@ function App() {
 
   //Captures data from API every 10 secs
   useEffect(() => {
-    fetch('http://worldtimeapi.org/api/timezone/America/New_York')
+    fetch('https://worldtimeapi.org/api/timezone/America/New_York')
       .then((response) => response.json())
       .then((json) => setCurrentDate(json.datetime));
     const timer = setTimeout(() => setRefresh({num: refresh.num + 1}), 10000);

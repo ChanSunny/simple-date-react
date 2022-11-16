@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f77a9d21-bb70-4ad8-90d7-79885caa91cd/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ny-time",
+    "appService.deploySubpath": "."
+}
